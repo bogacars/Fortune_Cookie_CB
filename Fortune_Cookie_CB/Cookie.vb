@@ -2,7 +2,7 @@
 'RCET 0265
 'Spring 22
 'Cookie of Fortune
-'
+'https://github.com/bogacars/Fortune_Cookie_CB.githttps://github.com/bogacars/Fortune_Cookie_CB.git
 
 Option Explicit On
 Option Strict On
